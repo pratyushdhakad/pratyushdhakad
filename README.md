@@ -4,6 +4,8 @@ I build reliable analytics and AI-assisted automation that turn messy operationa
 
 I currently work across **BI engineering**, **analytics automation**, and **applied AI**, with a focus on solutions that business teams can understand, trust, and use.
 
+I build with AI in the open. I use it to move faster, explore harder, and automate the boring parts—then I own the architecture, evaluation, testing, and business decisions.
+
 ## What I work with
 
 - **Data engineering:** SQL, Python, BigQuery, dbt, Fivetran, data modeling, ETL/ELT
@@ -23,7 +25,7 @@ I currently work across **BI engineering**, **analytics automation**, and **appl
 
 Over the next month, I am publishing a portfolio of practical, reproducible projects using synthetic or public data:
 
-1. **Data Cost Guard** — warehouse and connector cost monitoring with anomaly detection
+1. [**Data Cost Guard**](https://github.com/pratyushdhakad/data-cost-guard) — warehouse and connector cost monitoring with anomaly detection, forecasting, tests, and CI
 2. **Inventory Decision Engine** — demand, safety-stock, and transfer recommendation workflows
 3. **AI Support Operations Lab** — ticket classification, quality evaluation, and cost analysis
 4. **Analytics Automation Platform** — an end-to-end tested data product with CI and documentation
@@ -42,4 +44,3 @@ Business question → measurable decision → reliable data model
 - [LinkedIn](https://www.linkedin.com/in/pratyushdhakad)
 - Based in the New York area
 - Open to BI Engineer and AI Automation Engineer opportunities
-
