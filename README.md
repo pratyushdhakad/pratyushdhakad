@@ -26,7 +26,7 @@ I build with AI in the open. I use it to move faster, explore harder, and automa
 Over the next month, I am publishing a portfolio of practical, reproducible projects using synthetic or public data:
 
 1. [**Data Cost Guard**](https://github.com/pratyushdhakad/data-cost-guard) — warehouse and connector cost monitoring with anomaly detection, forecasting, tests, and CI
-2. [**Inventory Decision Engine**](https://pratyushdhakad.github.io/inventory-decision-engine/) — interactive planner cockpit with demand forecasting, safety stock, transfer timing, stress scenarios, and explainable replenishment decisions
+2. [**Inventory Decision Engine**](https://pratyushdhakad.github.io/inventory-decision-engine/) — interactive planner cockpit with demand forecasting, scenario stress tests, leakage-safe evaluation, and explainable replenishment decisions
 3. **AI Support Operations Lab** — ticket classification, quality evaluation, and cost analysis
 4. **Analytics Automation Platform** — an end-to-end tested data product with CI and documentation
 
