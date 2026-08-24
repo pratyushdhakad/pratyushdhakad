@@ -23,14 +23,14 @@ I build with AI in the open. I use it to move faster, explore harder, and automa
 
 ## Building in public
 
-Over the next month, I am publishing a portfolio of practical, reproducible projects using synthetic or public data:
+I publish practical, reproducible projects using synthetic or public data:
 
-1. **Data Cost Guard** ([Repository](https://github.com/pratyushdhakad/data-cost-guard) · [Live demo](https://pratyushdhakad.github.io/data-cost-guard/)) — warehouse and connector cost monitoring with anomaly detection, forecasting, tests, and CI
-2. **Inventory Decision Engine** ([Repository](https://github.com/pratyushdhakad/inventory-decision-engine) · [Live demo](https://pratyushdhakad.github.io/inventory-decision-engine/)) — interactive planner cockpit with demand forecasting, scenario stress tests, leakage-safe evaluation, and explainable replenishment decisions
-3. **API Support Operations Lab** ([Repository](https://github.com/pratyushdhakad/api-support-operations-lab) · [Live demo](https://pratyushdhakad.github.io/api-support-operations-lab/)) — monitored public-API registry, explainable incident operations, AI classification evaluation, and executive decision dashboard
-4. **Analytics Automation Platform** ([Repository](https://github.com/pratyushdhakad/analytics-automation-platform)) — contract-driven revenue, marketing, affiliate, and fulfillment data product evolving into a tested forecasting control tower
+1. **Revenue Forecasting Control Tower** ([Repository](https://github.com/pratyushdhakad/analytics-automation-platform) · [Live demo](https://pratyushdhakad.github.io/analytics-automation-platform/)) — tested 13-week revenue forecasting, rolling-origin model selection, seven operating scenarios, and an executive decision dashboard
+2. **Data Cost Guard** ([Repository](https://github.com/pratyushdhakad/data-cost-guard) · [Live demo](https://pratyushdhakad.github.io/data-cost-guard/)) — warehouse and connector cost monitoring with anomaly detection, forecasting, tests, and CI
+3. **Inventory Decision Engine** ([Repository](https://github.com/pratyushdhakad/inventory-decision-engine) · [Live demo](https://pratyushdhakad.github.io/inventory-decision-engine/)) — interactive planner cockpit with demand forecasting, scenario stress tests, leakage-safe evaluation, and explainable replenishment decisions
+4. **API Support Operations Lab** ([Repository](https://github.com/pratyushdhakad/api-support-operations-lab) · [Live demo](https://pratyushdhakad.github.io/api-support-operations-lab/)) — monitored public-API registry, explainable incident operations, AI classification evaluation, and executive decision dashboard
 
-Every project will include a clear business problem, reproducible setup, tested code, architecture notes, and an explanation of key trade-offs.
+Each project includes a clear business problem, reproducible setup, tested code, architecture notes, and an explanation of key trade-offs.
 
 ## How I approach problems
 
