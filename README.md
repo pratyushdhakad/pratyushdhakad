@@ -31,7 +31,7 @@ I publish practical, reproducible projects using synthetic or public data:
 4. **API Support Operations Lab** ([Repository](https://github.com/pratyushdhakad/api-support-operations-lab) · [Live demo](https://pratyushdhakad.github.io/api-support-operations-lab/)) — monitored public-API registry, explainable incident operations, AI classification evaluation, and executive decision dashboard
 5. **Brand Reconciliation Field Lab** ([Repository](https://github.com/pratyushdhakad/brand-reconciliation-field-lab)) — synthetic Shopify payout-to-bank reconciliation, explainable exception queue, mock customer kickoff, and a beginner build journal; a small step toward forward-deployed AI and data work
 
-Each project includes a clear business problem, reproducible setup, tested code, architecture notes, and an explanation of key trade-offs.
+Each project includes a clear business problem, reproducible setup, tested code, and an explanation of key trade-offs.
 
 ## How I approach problems
 
