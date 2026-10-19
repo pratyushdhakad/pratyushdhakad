@@ -29,6 +29,7 @@ I publish practical, reproducible projects using synthetic or public data:
 2. **Data Cost Guard** ([Repository](https://github.com/pratyushdhakad/data-cost-guard) · [Live demo](https://pratyushdhakad.github.io/data-cost-guard/)) — warehouse and connector cost monitoring with anomaly detection, forecasting, tests, and CI
 3. **Inventory Decision Engine** ([Repository](https://github.com/pratyushdhakad/inventory-decision-engine) · [Live demo](https://pratyushdhakad.github.io/inventory-decision-engine/)) — interactive planner cockpit with demand forecasting, scenario stress tests, leakage-safe evaluation, and explainable replenishment decisions
 4. **API Support Operations Lab** ([Repository](https://github.com/pratyushdhakad/api-support-operations-lab) · [Live demo](https://pratyushdhakad.github.io/api-support-operations-lab/)) — monitored public-API registry, explainable incident operations, AI classification evaluation, and executive decision dashboard
+5. **Brand Reconciliation Field Lab** ([Repository](https://github.com/pratyushdhakad/brand-reconciliation-field-lab)) — synthetic Shopify payout-to-bank reconciliation, explainable exception queue, mock customer kickoff, and a beginner build journal; a small step toward forward-deployed AI and data work
 
 Each project includes a clear business problem, reproducible setup, tested code, architecture notes, and an explanation of key trade-offs.
 
@@ -43,4 +44,4 @@ Business question → measurable decision → reliable data model
 
 - [LinkedIn](https://www.linkedin.com/in/pratyushdhakad)
 - Based in the New York area
-- Open to BI Engineer and AI Automation Engineer opportunities
+- Open to Forward Deployed Engineer, BI Engineer, and AI Automation Engineer opportunities
