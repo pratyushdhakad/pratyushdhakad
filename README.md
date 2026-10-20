@@ -30,6 +30,7 @@ I publish practical, reproducible projects using synthetic or public data:
 3. **Inventory Decision Engine** ([Repository](https://github.com/pratyushdhakad/inventory-decision-engine) · [Live demo](https://pratyushdhakad.github.io/inventory-decision-engine/)) — interactive planner cockpit with demand forecasting, scenario stress tests, leakage-safe evaluation, and explainable replenishment decisions
 4. **API Support Operations Lab** ([Repository](https://github.com/pratyushdhakad/api-support-operations-lab) · [Live demo](https://pratyushdhakad.github.io/api-support-operations-lab/)) — monitored public-API registry, explainable incident operations, AI classification evaluation, and executive decision dashboard
 5. **Brand Reconciliation Field Lab** ([Repository](https://github.com/pratyushdhakad/brand-reconciliation-field-lab)) — synthetic Shopify payout-to-bank reconciliation, explainable exception queue, mock customer kickoff, and a beginner build journal; a small step toward forward-deployed AI and data work
+6. **Retailer Economics Field Lab** ([Repository](https://github.com/pratyushdhakad/retailer-economics-field-lab)) — two synthetic retailer formats, SKU alias mapping, trade-spend contribution, a fail-closed comparison, and a mock decision handoff
 
 Each project includes a clear business problem, reproducible setup, tested code, and an explanation of key trade-offs.
 
